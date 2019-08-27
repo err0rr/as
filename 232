@@ -1,0 +1,29 @@
+Pw Hash: 's43igxQZHVI='    , Hint: 'numbers 1-6' 
+Pw Hash: 'EIR9fi2vArGbvOgZG/iprg==', Hint: 'numbers 1-9' 
+Pw Hash: '362cKKc/wHxXk612McCqrQ==', Hint: 'the password is password' 
+Pw Hash: 'EIR9fi2vArFXk612McCqrQ==', Hint: '8digits' 
+Pw Hash: '8QpBqQC4cMU='    , Hint: 'ytrewq' 
+Pw Hash: '0QkQewHj5zo='    , Hint: 'numbers' 
+Pw Hash: 'M6OIc43FZy4='    , Hint: '1x6' 
+Pw Hash: 'PMev/iMPQ+o='    , Hint: '2*(1-3)' 
+Pw Hash: 'f4tJ7bepEvg='    , Hint: 'sixzeros' 
+Pw Hash: 'dQjqvdr3gCE='    , Hint: '6a' 
+Pw Hash: 'sAnLqUYI0ug='    , Hint: 'pw file' 
+Pw Hash: 'LOIm6vfCyEY='    , Hint: 'Cool Security Company' 
+Pw Hash: 'oaeOMtqUzEl/itlNeoAslQ==', Hint: 'You cannot guess this one. Try to decrypt it.' 
+
+You can assume DES-ECB encryption.
+
+s43igxQZHVI=                   123456
+8QpBqQC4cMU=                                                                 qwerty                                                                               
+0QkQewHj5zo=                                                    numbers*
+M6OIc43FZy4=                                                     111111
+PMev/iMPQ+o=                                                   123123
+f4tJ7bepEvg=                                                       000000
+dQjqvdr3gCE=                                                     aaaaaa
+sAnLqUYI0ug=                   bfdui3
+LOIm6vfCyEY=                                                     security company*
+EIR9fi2vArGbvOgZG/iprg==            123456789
+362cKKc/wHxXk612McCqrQ==     the password
+EIR9fi2vArFXk612McCqrQ==          88888888
+oaeOMtqUzEl/itlNeoAslQ==        ?
